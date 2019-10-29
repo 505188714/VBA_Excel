@@ -11,3 +11,4 @@
 # 8. Protection
 
 # I am planning to create a central spreadsheet, and VBA will take care all of these needs.
+#2019/10/29 Making one more row for GitHub studying.
